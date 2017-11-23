@@ -82,3 +82,8 @@ typings/
 .nfs*
 
 # End of https://www.gitignore.io/api/linux
+
+## Custom
+public/fonts
+public/css
+public/js
